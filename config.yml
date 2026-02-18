@@ -50,6 +50,11 @@ galaxy_arms:
   #     - "Docker"
   #     - "GitHub Actions"
   #     - "AWS"
+   - name: "Intelligent Systems"
+    color: "axon_amber"
+    items:
+      - "LLMs"
+      - "Vector Databases"
 
 # Featured projects shown as constellation stars
 # Each project needs:
